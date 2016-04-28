@@ -59,3 +59,4 @@
 12. download `sqlite3.exe` from [sqlite3 website](https://sqlite.org/download.html).
     Take the command-line tools bundle. Put the following files in the `Scripts`
     folders your Python installations (like `C:\Python27\Scripts`).
+13. create `requirements.txt` from the root of the `env` folder: `pip freeze > requirements.txt`
