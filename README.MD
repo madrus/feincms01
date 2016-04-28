@@ -1,4 +1,4 @@
-# Create a new FEINCMS project
+# How to Create a New FEINCMS Project
 
 1. create solution directory
 2. inside it create virtual environment: `virtualenv env`
